@@ -1,13 +1,14 @@
-# Titanic-Classification
+# Titanic-Classification : Make a system which tells whether the person will be save from sinking. What factors were most likely lead to success-socio-economic status, age, gender and more.
 
-Dataset Description
+# Project Title: Titanic Survival Prediction
 
-Overview
+# Description: This repositiry contains a data science project that focuses on predicting the survival of passengers abroad the Titanic during the tragic disaster. The goal is to build a machine learning model that can accurately predicts whether a passenger survived or not based on various features such as socio-economic status, age, gender and more.
+
+# Dataset Description
 
 The data has been split into two groups:
 
 training set (train.csv)
-
 test set (test.csv)
 
 The training set should be used to build our machine learning models. For the training set, we provide the outcome (also known as the “ground truth”) for each passenger. Our model will be based on “features” like passengers’ gender and class. We can also use feature engineering to create new features.
