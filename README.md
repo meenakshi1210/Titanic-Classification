@@ -2,7 +2,7 @@
 
 # Project Title: Titanic Survival Prediction
 
-# Description: This repositiry contains a data science project that focuses on predicting the survival of passengers abroad the Titanic during the tragic disaster. The goal is to build a machine learning model that can accurately predicts whether a passenger survived or not based on various features such as socio-economic status, age, gender and more.
+# Description: This repository contains a data science project that focuses on predicting the survival of passengers abroad the Titanic during the tragic disaster. The goal is to build a machine learning model that can accurately predict whether a passenger survived or not based on various features such as socio-economic status, age, gender and more.
 
 # Dataset Description
 
